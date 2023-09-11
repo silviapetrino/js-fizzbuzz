@@ -7,8 +7,8 @@ body {
 
 div .square-sp {
   border: 1px solid black;
-  width: 100px;
-  height: 100px;
-  margin-left: 1px;
-  line-height: 100px;
+  width: 90px;
+  height: 90px;
+  margin-left: 2px;
+  line-height: 90px;
 }
